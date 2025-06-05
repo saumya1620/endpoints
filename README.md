@@ -18,7 +18,6 @@ Priority and timestamp based ordering
 
 Mocking external API using delay
 
-<<<<<<< HEAD
-Hosted on Render: https://endpoints-vndq.onrender.com
-=======
+#Hosted on Render: https://endpoints-vndq.onrender.com
+==
 
